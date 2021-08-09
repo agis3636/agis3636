@@ -1,6 +1,6 @@
 ### KENAPA MAN ? HAH ! 👋
 
-<!--
+
 **agis3636/agis3636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...               [youtube]!(https://www.youtube.com/agis3636)
 - 😄 Pronouns: ...                      hehe
 - ⚡ Fun fact: ...                      finished
--->
+
