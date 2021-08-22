@@ -9,11 +9,11 @@
       <a href="https://benyou.me">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/agis3636/benyou1969/blob/master/globe.gif?raw=true" />
+        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Kunjungi Github Pribadi Saya</strong>
+        <strong> . . . . a</strong>
     </td>
   </tr>
 </table>
